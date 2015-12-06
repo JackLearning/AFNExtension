@@ -20,9 +20,4 @@
     NSLog(@"欢迎使用AFNExtension框架!!!!");
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
 @end
